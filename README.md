@@ -36,7 +36,7 @@ The CNN model architecture defined in the models.py file is used for training. A
 * Use your trained model to detect facial keypoints on the image.
 
 
-<b><p>This is an example of how my model performed on a test image consisting of me and my high school chilling at a cafe!<p></b>
+<b><p>This is an example of how my model performed on a test image consisting of me and my high school friends chilling at a cafe!<p></b>
 <p><img src="images/my%20friends.jpg" alt="photo" width=600></p>
 <b>Faces detected with keypoints marked on each of the detected face</b> <br>
 <img src="images/rohit%20detected.png" alt="photo"> <img src="images/pranay%20detected.png" alt="photo"> <img src="images/shweta%20detected.png" alt="photo">
